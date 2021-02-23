@@ -1,0 +1,16 @@
+C:\Users\Gilvan\Desktop\Projetos\DIO\DIOBank\bin\Debug\net5.0\DIOBank.exe
+C:\Users\Gilvan\Desktop\Projetos\DIO\DIOBank\bin\Debug\net5.0\DIOBank.deps.json
+C:\Users\Gilvan\Desktop\Projetos\DIO\DIOBank\bin\Debug\net5.0\DIOBank.runtimeconfig.json
+C:\Users\Gilvan\Desktop\Projetos\DIO\DIOBank\bin\Debug\net5.0\DIOBank.runtimeconfig.dev.json
+C:\Users\Gilvan\Desktop\Projetos\DIO\DIOBank\bin\Debug\net5.0\DIOBank.dll
+C:\Users\Gilvan\Desktop\Projetos\DIO\DIOBank\bin\Debug\net5.0\ref\DIOBank.dll
+C:\Users\Gilvan\Desktop\Projetos\DIO\DIOBank\bin\Debug\net5.0\DIOBank.pdb
+C:\Users\Gilvan\Desktop\Projetos\DIO\DIOBank\obj\Debug\net5.0\DIOBank.csprojAssemblyReference.cache
+C:\Users\Gilvan\Desktop\Projetos\DIO\DIOBank\obj\Debug\net5.0\DIOBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gilvan\Desktop\Projetos\DIO\DIOBank\obj\Debug\net5.0\DIOBank.AssemblyInfoInputs.cache
+C:\Users\Gilvan\Desktop\Projetos\DIO\DIOBank\obj\Debug\net5.0\DIOBank.AssemblyInfo.cs
+C:\Users\Gilvan\Desktop\Projetos\DIO\DIOBank\obj\Debug\net5.0\DIOBank.csproj.CoreCompileInputs.cache
+C:\Users\Gilvan\Desktop\Projetos\DIO\DIOBank\obj\Debug\net5.0\DIOBank.dll
+C:\Users\Gilvan\Desktop\Projetos\DIO\DIOBank\obj\Debug\net5.0\ref\DIOBank.dll
+C:\Users\Gilvan\Desktop\Projetos\DIO\DIOBank\obj\Debug\net5.0\DIOBank.pdb
+C:\Users\Gilvan\Desktop\Projetos\DIO\DIOBank\obj\Debug\net5.0\DIOBank.genruntimeconfig.cache
